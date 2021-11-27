@@ -45,7 +45,7 @@ Widget carsList(BuildContext context) {
               ],
             ),
             SizedBox(
-              height: 210,
+              height: MediaQuery.of(context).size.height * 0.35,
               child: Column(
                 children: [
                   Expanded(
