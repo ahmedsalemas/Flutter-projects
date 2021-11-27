@@ -5,7 +5,11 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
-
+###############################################################################################################################################################
+#                       * I have used MVC model in this app.                                                                                                  #
+#                       * I have used GetX which is  an extra-light and powerful solution for Flutter.                                                        #
+#                       * It combines high-performance state management, intelligent dependency injection, and route management quickly and practically.      #
+###############################################################################################################################################################
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
