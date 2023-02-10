@@ -1,0 +1,3 @@
+flutter_native_splash:
+  image: "lib/utils/images/instagram-logo.png"
+  color: "#333333"
